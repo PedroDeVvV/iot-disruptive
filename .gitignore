@@ -1,0 +1,9 @@
+.venv/
+.packages/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+data/*.csv
+!data/exemplo.csv
+

@@ -1,0 +1,10 @@
+id,room_id/id,noted_date,temp,out/in
+1,Room Admin,01-12-2018 08:00,24,In
+2,Room Admin,01-12-2018 08:15,29,Out
+3,Room Admin,01-12-2018 12:00,26,In
+4,Room Admin,01-12-2018 12:15,32,Out
+5,Room Admin,02-12-2018 08:00,23,In
+6,Room Admin,02-12-2018 08:15,28,Out
+7,Room Admin,02-12-2018 12:00,25,In
+8,Room Admin,02-12-2018 12:15,31,Out
+
