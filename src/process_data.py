@@ -67,7 +67,6 @@ def create_views(engine) -> None:
 
 
 def drop_views(engine) -> None:
-    """Remove as views antes de recriar a tabela de leituras."""
     from sqlalchemy import text
 
     with engine.begin() as connection:
